@@ -51,6 +51,6 @@ These are my original solutions from 2021. Looking back at them:
 ## Notes
 
 - The problems, specifications, and tester belong to Ilkka Kokkarinen and are released under the GNU GPL v3 in the linked repository. Only my solutions are included here.
-- The solution logic is unchanged from my 2021 coursework. Formatting was standardized and docstrings were added with AI assistance.
+- I WANT TO STRESS The solution logic is UNCHANGED from my coursework. I simply used claude for FORMATTING, STANDERDIZATION and DOC STRINGS.
 
 **Author:** William Wellington
